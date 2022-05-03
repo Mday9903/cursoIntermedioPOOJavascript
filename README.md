@@ -1,4 +1,4 @@
-CURSO INTERMEDIO DE PROGRAMACIÓN ORIENTADA A OBJETOS EN JAVASCRIPT
+## CURSO INTERMEDIO DE PROGRAMACIÓN ORIENTADA A OBJETOS EN JAVASCRIPT
 
 Este es el curso intermedio de Programación Orientada a Objetos en Javascript de Platzi.
 
