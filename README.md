@@ -1,4 +1,5 @@
-# cursoIntermedioPOOJavascript
+CURSO INTERMEDIO DE PROGRAMACIÓN ORIENTADA A OBJETOS EN JAVASCRIPT
+
 Este es el curso intermedio de Programación Orientada a Objetos en Javascript de Platzi.
 
 ## CLASE 2:  STATIC - Atributos y métodos estáticos en Javascript. - sólo teoría.
